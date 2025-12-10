@@ -1,4 +1,4 @@
-package com._nt.SpingSecTemplate;
+package com._nt.SpingSecTemplate.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

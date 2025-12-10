@@ -1,4 +1,4 @@
-package com._nt.SpingSecTemplate;
+package com._nt.SpingSecTemplate.model;
 
 public class Student {
     private int id;

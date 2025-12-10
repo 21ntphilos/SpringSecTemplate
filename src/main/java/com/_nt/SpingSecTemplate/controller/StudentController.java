@@ -1,5 +1,6 @@
-package com._nt.SpingSecTemplate;
+package com._nt.SpingSecTemplate.controller;
 
+import com._nt.SpingSecTemplate.model.Student;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.*;
